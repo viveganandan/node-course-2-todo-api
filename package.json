@@ -11,6 +11,7 @@
       "version": "1.0.4"
     },
     "express": "^4.16.2",
+    "lodash": "^4.17.4",
     "mongodb": {
       "integrity": "sha1-J47oAGJX7CJ5hZSmJZVGgl1t4bI=",
       "requires": {
